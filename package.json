@@ -1,0 +1,16 @@
+{
+"name": "yes8slot",
+"theme": "yes8 slot",
+"version": "9.3.3",
+"description": "yes8 slot ทางเข้าเว็บสล็อตเว็บตรง ไม่มีขั้นต่ำ แจกเงินเครดิตฟรี",
+"keywords": [
+"yes8 slot",
+"yes8 slot เครดิตฟรี",
+"yes8 slot ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/yes8slot",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
